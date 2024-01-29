@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf8'?>
+<workers><worker><name>Umar</name><post>Product Manager</post><year>23</year></worker>
+<worker><name>Abu</name><post>Manager</post><year>24</year></worker></workers>
